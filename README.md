@@ -103,7 +103,7 @@ I wanted a project that was fun to build *and* fun to use. Stone Paper Scissors 
 
 ## 📸 Preview
 
-> *(Add a screenshot of your game here — something like `assets/preview.png`)*
+> /assets/Example.png
 
 ```
 ![Game Preview](assets/preview.png)

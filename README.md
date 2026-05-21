@@ -38,7 +38,7 @@ Genuinely couldn't be simpler:
 
 1. **Clone the repo**
    ```bash
-   git clone https://github.com/your-username/stone-paper-scissors.git
+  https://github.com/srsahoo2006-svg/Stone-Paper-Scissor-Game.git
    ```
 
 2. **Open the folder**
